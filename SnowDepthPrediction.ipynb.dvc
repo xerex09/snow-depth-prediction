@@ -1,4 +1,4 @@
 outs:
-- md5: 1ef84c8d121542317392d5f305147f16
-  size: 221537
+- md5: ea63644a5a8589b989ef40373d441775
+  size: 225798
   path: SnowDepthPrediction.ipynb
