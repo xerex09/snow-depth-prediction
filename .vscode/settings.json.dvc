@@ -1,0 +1,4 @@
+outs:
+- md5: 026183d3a7a14f57a841670361fb06b7
+  size: 49
+  path: settings.json
